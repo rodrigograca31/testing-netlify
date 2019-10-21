@@ -1,0 +1,24 @@
+{
+  "name": "testing-netlify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigograca31/testing-netlify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigograca31/testing-netlify/issues"
+  },
+  "homepage": "https://github.com/rodrigograca31/testing-netlify#readme",
+  "dependencies": {
+    "gulp-clean": "^0.4.0",
+    "gulp-htmlmin": "^5.0.1",
+    "run-sequence": "^2.2.1"
+  }
+}
